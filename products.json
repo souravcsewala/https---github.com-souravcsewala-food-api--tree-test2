@@ -1,0 +1,228 @@
+[
+    {
+      "name": "Smartphone1",
+      "company": "XYZ Tech",
+      "price": 599,
+      "colors": ["Black", "White", "Blue"],
+      "image": "example.com/smartphone.jpg",
+      "category": "Electronics",
+      "isFeatured": true
+    },
+    {
+        "name": "Smartphone2",
+        "company": "XYZ Tech2",
+        "price": 699,
+        "colors": ["Black", "White", "Blue"],
+        "image": "example.com/smartphone.jpg",
+        "category": "Electronics2",
+        "isFeatured": true
+      },
+    {
+      "name": "Laptop1",
+      "company": "ABC Electronics",
+      "price": 1299,
+      "colors": ["Silver", "Black"],
+      "image": "example.com/laptop.jpg",
+      "category": "Electronics",
+      "isFeatured": false
+    },
+    {
+        "name": "Laptop2",
+        "company": "ABC Electronics2",
+        "price": 1699,
+        "colors": ["Silver", "Black"],
+        "image": "example.com/laptop.jpg",
+        "category": "Electronics2",
+        "isFeatured": false
+      },
+    {
+      "name": "Headphones1",
+      "company": "Sound Master",
+      "price": 99,
+      "colors": ["Red", "Blue", "Black"],
+      "image": "example.com/headphones.jpg",
+      "category": "Electronics",
+      "isFeatured": true
+    },
+    {
+        "name": "Headphones2",
+        "company": "Sound Master2",
+        "price": 990,
+        "colors": ["Red", "Blue", "Black"],
+        "image": "example.com/headphones.jpg",
+        "category": "Electronics2",
+        "isFeatured": true
+      },
+    {
+      "name": "Smartwatch1",
+      "company": "Tech Innovations",
+      "price": 199,
+      "colors": ["Black", "Silver"],
+      "image": "example.com/smartwatch.jpg",
+      "category": "Electronics",
+      "isFeatured": true
+    },
+    {
+        "name": "Smartwatch2",
+        "company": "Tech Innovations2",
+        "price": 1990,
+        "colors": ["Black", "Silver"],
+        "image": "example.com/smartwatch.jpg",
+        "category": "Electronics2",
+        "isFeatured": true
+      },
+    {
+      "name": "Sneakers",
+      "company": "FootWorks",
+      "price": 79,
+      "colors": ["White", "Black", "Red"],
+      "image": "example.com/sneakers.jpg",
+      "category": "Fashion",
+      "isFeatured": false
+    },
+    {
+      "name": "Backpack",
+      "company": "Adventure Gear",
+      "price": 49,
+      "colors": ["Blue", "Green", "Black"],
+      "image": "example.com/backpack.jpg",
+      "category": "Travel",
+      "isFeatured": true
+    },
+    {
+      "name": "Coffee Maker",
+      "company": "Brew Masters",
+      "price": 129,
+      "colors": ["Silver", "Black"],
+      "image": "example.com/coffee_maker.jpg",
+      "category": "Appliances",
+      "isFeatured": false
+    },
+    {
+      "name": "Television",
+      "company": "ViewTech",
+      "price": 899,
+      "colors": ["Black"],
+      "image": "example.com/television.jpg",
+      "category": "Electronics",
+      "isFeatured": true
+    },
+    {
+      "name": "Running Shoes",
+      "company": "Speedy Feet",
+      "price": 99,
+      "colors": ["Blue", "Red", "White"],
+      "image": "example.com/running_shoes.jpg",
+      "category": "Fashion",
+      "isFeatured": true
+    },
+    {
+      "name": "Desk Lamp",
+      "company": "Illuminate",
+      "price": 39,
+      "colors": ["Black", "White"],
+      "image": "example.com/desk_lamp.jpg",
+      "category": "Home",
+      "isFeatured": false
+    },
+    {
+      "name": "Portable Speaker",
+      "company": "Sound Wave",
+      "price": 69,
+      "colors": ["Black", "Red", "Blue"],
+      "image": "example.com/portable_speaker.jpg",
+      "category": "Electronics",
+      "isFeatured": true
+    },
+    {
+      "name": "Office Chair",
+      "company": "Ergo Comfort",
+      "price": 199,
+      "colors": ["Black", "Gray"],
+      "image": "example.com/office_chair.jpg",
+      "category": "Office",
+      "isFeatured": true
+    },
+    {
+      "name": "Gaming Console",
+      "company": "GameTech",
+      "price": 399,
+      "colors": ["Black"],
+      "image": "example.com/gaming_console.jpg",
+      "category": "Electronics",
+      "isFeatured": true
+    },
+    {
+      "name": "Smart Speaker",
+      "company": "AI Assist",
+      "price": 149,
+      "colors": ["White", "Black"],
+      "image": "example.com/smart_speaker.jpg",
+      "category": "Electronics",
+      "isFeatured": false
+    },
+    {
+      "name": "Tablet",
+      "company": "TabTech",
+      "price": 329,
+      "colors": ["Silver", "Black"],
+      "image": "example.com/tablet.jpg",
+      "category": "Electronics",
+      "isFeatured": true
+    },
+    {
+      "name": "Digital Camera",
+      "company": "SnapShot",
+      "price": 499,
+      "colors": ["Black"],
+      "image": "example.com/digital_camera.jpg",
+      "category": "Electronics",
+      "isFeatured": false
+    },
+    {
+      "name": "Printers",
+      "company": "Print Master",
+      "price": 199,
+      "colors": ["White", "Black"],
+      "image": "example.com/printer.jpg",
+      "category": "Electronics",
+      "isFeatured": true
+    },
+    {
+      "name": "Smart Thermostat",
+      "company": "Climate Control",
+      "price": 149,
+      "colors": ["White"],
+      "image": "example.com/smart_thermostat.jpg",
+      "category": "Home",
+      "isFeatured": false
+    },
+    {
+      "name": "Wireless Earbuds",
+      "company": "SoundBeat",
+      "price": 129,
+      "colors": ["Black", "White", "Red"],
+      "image": "example.com/wireless_earbuds.jpg",
+      "category": "Electronics",
+      "isFeatured": true
+    },
+    {
+      "name": "Blender",
+      "company": "Blend Master",
+      "price": 79,
+      "colors": ["Black", "Silver"],
+      "image": "example.com/blender.jpg",
+      "category": "Appliances",
+      "isFeatured": true
+    },
+    {
+      "name": "Smart Doorbell",
+      "company": "Secure Home",
+      "price": 199,
+      "colors": ["Black", "Silver"],
+      "image": "example.com/smart_doorbell.jpg",
+      "category": "Home",
+      "isFeatured": false
+    }
+  ]
+  
